@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'NitaiFont';
+    font-display: swap;
+    src: url('/fonts/NitaiFont.ttf') format("truetype");  /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  }
