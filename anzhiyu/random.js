@@ -1,6 +1,6 @@
 var posts=["/22328.html","/22327.html","/22326.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
-  };var friend_link_list=[{"name":"anzhiyu主题","link":"https://blog.anheyu.com/","avatar":"https://pic.imgdb.cn/item/669164cfd9c307b7e92559f3.jpg","descr":"生活明朗，万物可爱","siteshot":"https://pic.imgdb.cn/item/669164cfd9c307b7e9255a17.jpg"},{"name":"安知鱼","link":"https://blog.anheyu.com/","avatar":"https://pic.imgdb.cn/item/669164cfd9c307b7e92559f3.jpg","descr":"生活明朗，万物可爱","siteshot":"https://pic.imgdb.cn/item/669164cfd9c307b7e9255a17.jpg","color":"vip","tag":"技术"},{"name":"安知鱼","link":"https://blog.anheyu.com/","avatar":"https://pic.imgdb.cn/item/669164cfd9c307b7e92559f3.jpg","descr":"生活明朗，万物可爱","recommend":true}];
+  };var friend_link_list=[{"name":"anzhiyu主题","link":"https://blog.anheyu.com/","avatar":"https://pic.imgdb.cn/item/6698cba9d9c307b7e9789a70.jpg","descr":"生活明朗，万物可爱","siteshot":"https://pic.imgdb.cn/item/6698cbaad9c307b7e9789ae6.jpg"},{"name":"安知鱼","link":"https://blog.anheyu.com/","avatar":"https://pic.imgdb.cn/item/6698cba9d9c307b7e9789a70.jpg","descr":"生活明朗，万物可爱","siteshot":"https://pic.imgdb.cn/item/6698cbaad9c307b7e9789ae6.jpg","color":"vip","tag":"技术"},{"name":"安知鱼","link":"https://blog.anheyu.com/","avatar":"https://pic.imgdb.cn/item/6698cba9d9c307b7e9789a70.jpg","descr":"生活明朗，万物可爱","recommend":true}];
     var refreshNum = 1;
     function friendChainRandomTransmission() {
       const randomIndex = Math.floor(Math.random() * friend_link_list.length);
