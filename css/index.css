@@ -23157,7 +23157,7 @@ body[data-type="fcircle"] #page {
   background-color: white;
   color: black;
   font-size: small;
-  transition: 0.5s;
+  transition: 5.0s;
   box-shadow: rgb(0 0 0 / 5%) 0 10px 20px;
 }
 
