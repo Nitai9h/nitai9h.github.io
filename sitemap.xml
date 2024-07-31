@@ -7,86 +7,338 @@
 >
 
 <url>
+ <loc>https://trust.nitai.us.kg</loc>
+ <priority>0.5</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://cook.nitai.us.kg/</loc>
+ <priority>0.4</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://air.nitai.us.kg/</loc>
+ <priority>0.4</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://software.nitai.us.kg/</loc>
+ <priority>0.5</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
  <loc>https://nitai.us.kg/</loc>
  <priority>1.0</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/archives</loc>
  <priority>0.3</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/categories</loc>
  <priority>0.3</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/tags</loc>
  <priority>0.3</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/link</loc>
  <priority>0.3</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/comments</loc>
  <priority>0.3</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/music</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/album</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/about</loc>
  <priority>0.3</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/essay</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/equipment</loc>
  <priority>0.3</priority>
- <lastmod>2024-07-21</lastmod>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/Anzhiyu%E4%B8%BB%E9%A2%98</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/Armbian</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/CasaOS</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/Cloudflare</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/Docker</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/Github</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/Hexo</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/N1</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/OneNav</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/Shaarli</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/%E6%8A%80%E6%9C%AF</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/tags/%E7%8E%A9%E5%AE%A2%E4%BA%91</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/archives/2024/07</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/archives/2024/03</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/%E7%94%9F%E6%B4%BB</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/%E5%85%B6%E5%AE%83</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/22331.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/22328.html</loc>
- <priority>0.8</priority>
- <lastmod>2024-07-21</lastmod>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/22327.html</loc>
- <priority>0.8</priority>
- <lastmod>2024-07-21</lastmod>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/22326.html</loc>
- <priority>0.8</priority>
- <lastmod>2024-07-21</lastmod>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://nitai.us.kg/22330.html</loc>
- <priority>0.8</priority>
- <lastmod>2024-07-21</lastmod>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/22332.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/docker</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/技术</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/docker/书签管理</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/技术/NAS</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/Hexo</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/Hexo/Linux-Debian</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/categories/Hexo/git</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/copyright</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/privacy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://nitai.us.kg/cookies</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-07-31</lastmod>
  <changefreq>daily</changefreq>
 </url>
 
