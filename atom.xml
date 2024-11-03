@@ -34,7 +34,7 @@
       
     
     
-    <media:thumbnail url="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e676.webp" />
+    <image src="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e676.webp" alt="Cover"/>
     
     
     <category term="docker" scheme="http://nitai.us.kg/categories/docker/"/>
@@ -66,7 +66,7 @@
       
     
     
-    <media:thumbnail url="https://pic.imgdb.cn/item/66aafbf1d9c307b7e9e0ccfd.webp" />
+    <image src="https://pic.imgdb.cn/item/66aafbf1d9c307b7e9e0ccfd.webp" alt="Cover"/>
     
     
     <category term="技术" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/"/>
@@ -98,7 +98,7 @@
       
     
     
-    <media:thumbnail url="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e630.webp" />
+    <image src="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e630.webp" alt="Cover"/>
     
     
     <category term="技术" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/"/>
@@ -130,7 +130,7 @@
       
     
     
-    <media:thumbnail url="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e5fe.webp" />
+    <image src="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e5fe.webp" alt="Cover"/>
     
     
     <category term="技术" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/"/>
