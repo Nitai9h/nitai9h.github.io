@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nitai博客</title>
+  
+  <subtitle>步伐虽小，密而不停</subtitle>
+  <link href="http://cf.nitai.us.kg/rss.xml" rel="self"/>
+  
+  <link href="http://cf.nitai.us.kg/"/>
+  <updated>2024-07-23T09:05:13.000Z</updated>
+  <id>http://nitai.us.kg/</id>
+  
+  <author>
+    <name>Nitai_</name>
+    <email>nitai@nitai.us.kg</email>
+  </author>
+  
+ 	<icon>https://nitai-images.pages.dev/home/topround.webp</icon>
+	
+	<logo>https://nitai-images.pages.dev/home/topround.webp</logo>
+  
+  <entry>
+    <title>Docker部署书签管理工具 - Shaarli与OneNav</title>
+    <link href="http://nitai.us.kg/22331.html"/>
+    <id>http://nitai.us.kg/22331.html</id>
+    <published>2024-07-23T08:43:15.000Z</published>
+    <updated>2024-07-23T09:05:13.000Z</updated>
+    
+    <media:thumbnail url="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e676.webp"/>
+    
+    <category term="docker" scheme="http://nitai.us.kg/categories/docker/"/>
+    
+    <category term="书签管理" scheme="http://nitai.us.kg/categories/docker/%E4%B9%A6%E7%AD%BE%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="Docker" scheme="http://nitai.us.kg/tags/Docker/"/>
+    
+    <category term="Shaarli" scheme="http://nitai.us.kg/tags/Shaarli/"/>
+    
+    <category term="OneNav" scheme="http://nitai.us.kg/tags/OneNav/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>N1 armbian dtb低负载详细编译教程</title>
+    <link href="http://nitai.us.kg/22328.html"/>
+    <id>http://nitai.us.kg/22328.html</id>
+    <published>2024-07-17T09:27:29.000Z</published>
+    <updated>2024-07-17T10:01:32.000Z</updated>
+
+    <media:thumbnail url="https://pic.imgdb.cn/item/66aafbf1d9c307b7e9e0ccfd.webp"/>
+    
+    <category term="技术" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="NAS" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/NAS/"/>
+    
+    
+    <category term="技术" scheme="http://nitai.us.kg/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="N1" scheme="http://nitai.us.kg/tags/N1/"/>
+    
+    <category term="Armbian" scheme="http://nitai.us.kg/tags/Armbian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>斐讯N1盒子-降级并刷入Armbian</title>
+    <link href="http://nitai.us.kg/22327.html"/>
+    <id>http://nitai.us.kg/22327.html</id>
+    <published>2024-07-17T06:37:29.000Z</published>
+    <updated>2024-07-17T07:58:46.000Z</updated>
+    
+    <media:thumbnail url="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e630.webp"/>
+    
+    <category term="技术" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="NAS" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/NAS/"/>
+    
+    
+    <category term="技术" scheme="http://nitai.us.kg/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="N1" scheme="http://nitai.us.kg/tags/N1/"/>
+    
+    <category term="Armbian" scheme="http://nitai.us.kg/tags/Armbian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自建轻NAS：玩客云-刷入Armbian安装CasaOS</title>
+    <link href="http://nitai.us.kg/22326.html"/>
+    <id>http://nitai.us.kg/22326.html</id>
+    <published>2024-03-15T06:25:29.000Z</published>
+    <updated>2024-07-15T07:58:46.000Z</updated>
+    
+    <media:thumbnail url="https://pic.imgdb.cn/item/66ab41b1d9c307b7e920e5fe.webp"/>
+    
+    <category term="技术" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="NAS" scheme="http://nitai.us.kg/categories/%E6%8A%80%E6%9C%AF/NAS/"/>
+    
+    
+    <category term="技术" scheme="http://nitai.us.kg/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Armbian" scheme="http://nitai.us.kg/tags/Armbian/"/>
+    
+    <category term="玩客云" scheme="http://nitai.us.kg/tags/%E7%8E%A9%E5%AE%A2%E4%BA%91/"/>
+    
+    <category term="CasaOS" scheme="http://nitai.us.kg/tags/CasaOS/"/>
+    
+  </entry>
+  
+</feed>
